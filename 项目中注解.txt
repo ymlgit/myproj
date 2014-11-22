@@ -1,0 +1,5 @@
+@Controller 控制器
+@RequestMapping("/ctrl") 控制器映射路径
+@ResponseBody 响应body部分信息处理
+@ResquestBody 请求body部分信息处理
+
